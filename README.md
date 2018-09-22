@@ -1,2 +1,2 @@
 # fedesoft
-Este es un repositorio para enseñanza - primer commit
+Quiero ver cambios en el status
